@@ -1,0 +1,11 @@
+.cus-link {
+  transition: 0.5;
+  border-radius: 15px;
+}
+
+.cus-link:hover {
+  background-color: rgb(19, 133, 185);
+  color: white;
+  box-shadow: 0px 3px 8px 1px rgba(241, 241, 241, 0.3);
+  text-decoration: none;
+}
